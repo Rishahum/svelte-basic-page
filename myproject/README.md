@@ -1,6 +1,14 @@
 # This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
 
 ---
+![image](https://github.com/Rishahum/svelte-basic-page/assets/98969301/f7a4cd09-9e31-4426-bf7a-2be4e5a9a8dc)
+
+Add card option
+![image](https://github.com/Rishahum/svelte-basic-page/assets/98969301/33ab4082-92d2-4862-af51-a608314b4880)
+
+Add new card
+![image](https://github.com/Rishahum/svelte-basic-page/assets/98969301/1f7cbfd2-dd9d-40ee-8585-84faa0a888bb)
+
 
 # svelte app
 
